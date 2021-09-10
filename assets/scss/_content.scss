@@ -42,7 +42,8 @@
     p {
       text-align: justify;
       text-justify: auto;
-      hyphens: auto;
+      hyphens: none;
+      word-wrap: normal;
     }
   }
 
